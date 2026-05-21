@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Heart, Trash2 } from 'lucide-react';
 import { Container } from '../components/layout/Container';
 import { AnimeCard } from '../components/anime/AnimeCard';
